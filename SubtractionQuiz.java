@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class SubtractionQuiz {
 	public static void main(String[] args) {
 		// 1. Generate two random single-digit integers
-		int number1 = (int)(Math.random() * 10);
-		int number2 = (int)(Math.random() * 10);
+		// START HERE!!!!
 
 		// 2. If number1 < number2, swap number1 with number2
 		if(number1 < number2) {
